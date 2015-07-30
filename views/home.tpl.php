@@ -12,12 +12,12 @@
 <body>
 	<div class="persona">
 		<div class="avatar hvr-buzz-out">
-			<img src="http://graph.facebook.com/10203404963028921/picture?type=large">
+			<img src="http://graph.facebook.com/1628833017334083/picture?type=large">
 		</div>
 		<h1>Jose Luis Rodriguez</h1>
 		<h2>Frontend Developer</h2>
 		<div class="social">
-			<a class="facebook" href="https://www.facebook.com/burngeek8" target="_blank"></a>
+			<a class="facebook" href="https://www.facebook.com/joseluisrl8" target="_blank"></a>
 			<a class="twitter" href="https://twitter.com/burngeek8" target="_blank"></a>
 			<a class="github" href="https://github.com/burngeek8" target="_blank"></a>
 			<a class="linkedin" href="http://pe.linkedin.com/in/burngeek8" target="_blank"></a>
